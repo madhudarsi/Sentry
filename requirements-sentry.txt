@@ -26,7 +26,7 @@ django-jsonfield==0.9.13  # via sentry
 django-picklefield==0.3.2  # via sentry
 django-sudo==2.1.0        # via sentry
 django-templatetag-sugar==1.0  # via sentry
-django==1.6.11            # via sentry
+django==1.11.28            # via sentry
 djangorestframework==2.4.8  # via sentry
 docutils==0.14            # via botocore
 email-reply-parser==0.2.0  # via sentry
