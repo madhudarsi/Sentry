@@ -75,7 +75,7 @@ python-openid==2.2.5      # via sentry
 python-u2flib-server==4.0.1  # via sentry
 python-utils==2.3.0       # via progressbar2
 pytz==2019.1              # via celery
-pyyaml==3.11              # via sentry
+pyyaml==5.1              # via sentry
 qrcode==5.3               # via sentry
 querystring-parser==1.2.3  # via sentry
 rb==1.7                   # via sentry
