@@ -18,7 +18,7 @@ cffi==1.12.3              # via cryptography, milksnake, sentry
 chardet==3.0.4            # via requests
 click==6.7                # via sentry
 croniter==0.3.30          # via sentry
-cryptography==2.6.1       # via pyopenssl, python-u2flib-server, requests
+cryptography==3.2       # via pyopenssl, python-u2flib-server, requests
 cssselect==1.0.3          # via toronado
 cssutils==0.9.10          # via sentry, toronado
 django-crispy-forms==1.4.0  # via sentry
