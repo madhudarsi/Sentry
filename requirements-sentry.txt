@@ -37,7 +37,7 @@ functools32==3.2.3.post2  # via jsonschema, sentry
 futures==3.2.0            # via s3transfer, sentry
 hiredis==0.1.6            # via sentry
 honcho==1.0.1             # via sentry
-httplib2==0.12.3          # via oauth2
+httplib2==0.19.0          # via oauth2
 idna==2.7                 # via requests
 ipaddress==1.0.22         # via cryptography, sentry
 jmespath==0.9.4           # via boto3, botocore
