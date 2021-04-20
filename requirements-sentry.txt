@@ -62,7 +62,7 @@ pillow==4.2.1             # via sentry
 pluggy==0.6.0             # via pytest
 progressbar2==3.10.1      # via sentry
 psycopg2==2.7.7           # via sentry
-py==1.8.0                 # via pytest
+py==1.10.0                 # via pytest
 pycparser==2.19           # via cffi
 pyjwt==1.5.3              # via sentry
 pyopenssl==19.0.0         # via requests
