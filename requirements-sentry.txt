@@ -99,6 +99,6 @@ symbolic==6.1.2           # via sentry
 toronado==0.0.11          # via sentry
 ua-parser==0.7.3          # via sentry
 unidiff==0.5.5            # via sentry
-urllib3==1.24.2           # via requests, selenium, sentry, sentry-sdk
+urllib3==1.26.5           # via requests, selenium, sentry, sentry-sdk
 uwsgi==2.0.18             # via sentry
 
