@@ -58,7 +58,7 @@ parsimonious==0.8.0       # via sentry
 pbr==5.2.0                # via mock
 percy==2.0.2              # via sentry
 petname==2.0              # via sentry
-pillow==4.2.1             # via sentry
+pillow==8.2.0             # via sentry
 pluggy==0.6.0             # via pytest
 progressbar2==3.10.1      # via sentry
 psycopg2==2.7.7           # via sentry
