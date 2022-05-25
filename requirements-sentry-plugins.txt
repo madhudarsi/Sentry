@@ -17,7 +17,7 @@ jmespath==0.9.4           # via boto3, botocore
 mistune==0.8.4            # via sentry-plugins
 oauthlib==3.0.1           # via requests-oauthlib
 phabricator==0.7.0        # via sentry-plugins
-pyjwt==1.5.3              # via sentry-plugins
+pyjwt==2.4.0              # via sentry-plugins
 python-dateutil==2.8.0    # via botocore, sentry-plugins
 requests-oauthlib==0.3.3  # via sentry-plugins
 requests==2.20.1          # via requests-oauthlib
