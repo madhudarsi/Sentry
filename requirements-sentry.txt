@@ -46,7 +46,7 @@ kombu==3.0.35             # via celery, sentry
 loremipsum==1.0.5         # via sentry
 lxml==4.3.3               # via sentry, toronado
 milksnake==0.1.5          # via semaphore, symbolic
-mistune==0.8.4            # via sentry
+mistune==2.0.3            # via sentry
 mmh3==2.3.1               # via sentry
 mock==2.0.0               # via exam, sentry
 more-itertools==5.0.0     # via pytest

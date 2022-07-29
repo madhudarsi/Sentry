@@ -14,7 +14,7 @@ docutils==0.14            # via botocore
 futures==3.2.0            # via s3transfer
 idna==2.7                 # via requests
 jmespath==0.9.4           # via boto3, botocore
-mistune==0.8.4            # via sentry-plugins
+mistune==2.0.3            # via sentry-plugins
 oauthlib==3.0.1           # via requests-oauthlib
 phabricator==0.7.0        # via sentry-plugins
 pyjwt==1.5.3              # via sentry-plugins
