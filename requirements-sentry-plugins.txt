@@ -8,7 +8,7 @@ beautifulsoup==3.2.1      # via sentry-plugins
 boto3==1.4.5              # via sentry-plugins
 botocore==1.5.70          # via boto3, s3transfer
 cached-property==1.5.1    # via sentry-plugins
-certifi==2019.3.9         # via requests
+certifi==2022.12.7         # via requests
 chardet==3.0.4            # via requests
 docutils==0.14            # via botocore
 futures==3.2.0            # via s3transfer

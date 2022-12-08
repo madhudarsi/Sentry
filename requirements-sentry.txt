@@ -13,7 +13,7 @@ billiard==3.3.0.23        # via celery
 boto3==1.4.5              # via sentry
 botocore==1.5.70          # via boto3, s3transfer, sentry
 celery==3.1.18            # via sentry
-certifi==2019.3.9         # via requests, sentry-sdk
+certifi==2022.12.7         # via requests, sentry-sdk
 cffi==1.12.3              # via cryptography, milksnake, sentry
 chardet==3.0.4            # via requests
 click==6.7                # via sentry
